@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 st.write("""
-# Stocks from Yahoo Fianance
+# Stocks from Yahoo Finance
 
 Show Closing Price Selected!
 
